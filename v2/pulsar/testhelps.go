@@ -22,7 +22,7 @@ package pulsar
 import (
 	"bytes"
 	"encoding/json"
-	log "github.com/hrsakai/logutil"
+	log "github.com/hrsakai/pulsar/logutil"
 	"net/http"
 )
 

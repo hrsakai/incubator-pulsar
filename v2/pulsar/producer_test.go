@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	log "github.com/hrsakai/logutil"
+	log "github.com/hrsakai/pulsar/logutil"
 	"github.com/stretchr/testify/assert"
 )
 

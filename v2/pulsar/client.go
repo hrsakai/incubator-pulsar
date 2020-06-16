@@ -22,7 +22,7 @@ package pulsar
 import (
 	"time"
 
-	log "github.com/hrsakai/logutil"
+	log "github.com/hrsakai/pulsar/logutil"
 )
 
 func NewClient(options ClientOptions) (Client, error) {

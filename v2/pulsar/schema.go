@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	log "github.com/hrsakai/logutil"
+	log "github.com/hrsakai/pulsar/logutil"
 
 	"github.com/gogo/protobuf/proto"
 	"github.com/linkedin/goavro"

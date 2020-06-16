@@ -23,8 +23,8 @@ import (
 	"context"
 	"testing"
 
-	log "github.com/hrsakai/logutil"
-	"github.com/hrsakai/pulsar/pb"
+	log "github.com/hrsakai/pulsar/logutil"
+	"github.com/hrsakai/pulsar/pulsar/pb"
 	"github.com/stretchr/testify/assert"
 )
 
