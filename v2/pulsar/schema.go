@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	log "github.com/apache/pulsar/pulsar-client-go/logutil"
+	log "github.com/hrsakai/logutil"
 
 	"github.com/gogo/protobuf/proto"
 	"github.com/linkedin/goavro"

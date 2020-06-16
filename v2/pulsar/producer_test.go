@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	log "github.com/apache/pulsar/pulsar-client-go/logutil"
+	log "github.com/hrsakai/logutil"
 	"github.com/stretchr/testify/assert"
 )
 
