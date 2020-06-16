@@ -147,7 +147,7 @@ func (h *hook) Levels() []log.Level {
 // isSKippedPackageName tests wether path name is on log library calling stack.
 func isSkippedPackageName(name string) bool {
 	return strings.Contains(name, "github.com/sirupsen/logrus") ||
-		strings.Contains(name, "github.com/hrsakai/pulsar/logutil")
+		strings.Contains(name, "github.com/hrsakai/pulsar/v2/logutil")
 }
 
 // formatter is for compatibility with ngaut/log

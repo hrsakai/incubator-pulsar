@@ -29,7 +29,7 @@ import (
 	"strings"
 	"unsafe"
 
-	log "github.com/hrsakai/pulsar/logutil"
+	log "github.com/hrsakai/pulsar/v2/logutil"
 )
 
 //export pulsarClientLoggerProxy
